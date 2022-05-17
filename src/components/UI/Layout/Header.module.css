@@ -1,0 +1,11 @@
+.header {
+  background-color: chocolate;
+}
+.title {
+  font-size: 18px;
+  color: #fff;
+}
+.menu {
+    float: right;
+    list-style-type: none;
+}
